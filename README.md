@@ -1,4 +1,6 @@
-# [A love message]([URL](https://cosmicnyx.github.io/web/index.html))
+# A love message
+
+[Try it out]([URL](https://cosmicnyx.github.io/web/index.html))
 
 ## Table of Contents
 
