@@ -16,8 +16,8 @@ var winBoxPaths = {
             width: '500px',
             height: '400px',
             cssClass: 'classic-winbox',
-            xVar: '70',
-            yVar: '70',
+            xVar: '579',
+            yVar: '43',
             delay: 6000
         },
        
@@ -29,9 +29,9 @@ var winBoxPaths = {
             width: '500px',
             height: '400px',
             cssClass: 'modern-winbox',
-            xVar: '70',
-            yVar: '70',
-            delay: 5000
+            xVar: '65',
+            yVar: '500',
+            delay: 50
         },
         {
             title: 'Embracing Comfort Zones',
@@ -39,7 +39,7 @@ var winBoxPaths = {
             width: '500px',
             height: '400px',
             cssClass: 'modern-winbox',
-            xVar: '70',
+            xVar: '500',
             yVar: '70',
             delay: 7000
         },
