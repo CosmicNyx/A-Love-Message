@@ -57,8 +57,8 @@ Users interact with the `main.js` functionality primarily through the terminal i
 
 ## Complex terminal idea
 
-I wanted to make a terminal that worked as a terminal would, or exploring a terminal of sorts.
-I wrote this on the side but just as somethign to ref off of in the actual prjects js file. I decded not to due to time constraints and also for the sake of my sanity.
+I wanted to make a terminal that worked as an actual terminal would.
+I wrote this on the side but just as something to ref off of in the actual project js file. I decided not to due to time constraints and also for the sake of my sanity.
 
 ```javascript
 document.addEventListener('DOMContentLoaded', () => {
