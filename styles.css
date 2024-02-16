@@ -20,6 +20,18 @@ body, html {
     overflow: hidden;
 }
 
+.terminal .wb-close {
+    display: none; 
+}
+
+.classic-winbox .wb-close {
+    display: none; 
+}
+
+.modern-winbox .wb-close {
+    display: none; 
+}
+
 /* Terminal Style */
 .terminal {
     background-color: #333; /* Dark gray background */
