@@ -4,6 +4,7 @@
 
 - [Concept](#concept)
 - [Idea](#ideas)
+- [Relation to Digital Futures](#relation-to-df)
 - [Future hopes](#future-hopes)
 - [Files Overview](#files-overview)
 - [Key Functionalities](#key-functionalities)
@@ -19,6 +20,16 @@ This concept explores visual and interactive storytelling through the aesthetics
 I chose to work on a web-based project because I like building them. In my haste to think of something, I began coding some features as I considered the narrative. The designathon offered me the opportunity to unwind, code something random, and create the basis for next projects.
 
 The project's purpose was to design a desktop interface with interactive windows. Cleaning up the code took some time, and I still have files from previous attempts. My primary goal was to make the code as efficient as feasible. I've always liked this look and have worked on similar projects before.
+
+## Relation to DF
+As a student in the Digital Futures program at OCAD University, this project serves as a practical exploration of the concepts and techniques I've been learning. Here’s a simpler take on how it relates:
+
+Working on this project allowed me to dive deep into what we've been discussing in the Digital Futures program. It’s all about blending creativity with technology, and that’s exactly what I aimed for by creating a web-based interactive desktop. This project was a chance for me to apply coding skills, design thinking, and digital innovation in a fun and practical way. I experimented with making interactive windows, something that combines art and tech in a way that’s both useful and visually appealing. It was also a great exercise in problem-solving and efficiency, trying to make everything work smoothly and look good. Essentially, this project is a snapshot of what the Digital Futures program encourages us to do: think creatively about digital technology and how it can be used to create something unique and engaging.
+
+## Future hopes
+- Adding events that are triggered based on where the mouse moves or how long it stays still.
+- In general, just adding more interactions.
+- Choices of where the user explores that lead to certain discoveries and a story route.
 
 ## Files Overview
 
@@ -38,11 +49,6 @@ The project's purpose was to design a desktop interface with interactive windows
 - **WinBox Terminal Creation**: Utilizes the `WinBox` constructor to create a new window that acts as a terminal. This window is customizable and includes an input field for command entry.
 - **Command Input Handling**: Integrates an input field within the terminal for user commands, which can be extended to support various commands and interactions within the application.
 - **Styling and Positioning**: Applies specific CSS styles to the WinBox terminal for consistency with the application's aesthetic and user interface design.
-
-## Future hopes
-- Adding events that are triggered based on where the mouse moves or how long it stays still.
-- In general, just adding more interactions.
-- Choices of where the user explores that lead to certain discoveries and a story route.
 
 ## Usage
 
