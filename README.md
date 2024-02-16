@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Concept](#concept)
-- [Idea](#idea)
+- [Idea](#ideas)
+- [Future hopes](#future-hopes)
 - [Files Overview](#files-overview)
 - [Key Functionalities](#key-functionalities)
 - [Usage](#usage)
@@ -14,7 +15,7 @@
 ## Concept
 This concept explores visual and interactive storytelling through the aesthetics of a retro style. on A handmade website, we use pop up windows as journal entries to showcase a story about the conflicts and inner Turmoil about romantic relationships, their views on being an aromantica dn ace. The interactive part comes from unexpected moments through reading the diary and the characters feelings. Unexpected popups, Java animations, exploring through files and entries.
 
-## Idea
+## Ideas
 I chose to work on a web-based project because I like building them. In my haste to think of something, I began coding some features as I considered the narrative. The designathon offered me the opportunity to unwind, code something random, and create the basis for next projects.
 
 The project's purpose was to design a desktop interface with interactive windows. Cleaning up the code took some time, and I still have files from previous attempts. My primary goal was to make the code as efficient as feasible. I've always liked this look and have worked on similar projects before.
@@ -29,7 +30,7 @@ The project's purpose was to design a desktop interface with interactive windows
 
 - `main.js`: Sets up a terminal interface using the WinBox library, allowing users to enter commands and interact with the application.
 
-- `winboxContent.js`: Defines content that can be dynamically displayed within WinBox instances, adding an interactive storytelling or informational component to the application.
+- `winboxContent.js`: Defines content that can be dynamically displayed within WinBox instances, adding interactive storytelling or informational components to the application.
 
 ## Key Functionalities
 
@@ -37,6 +38,11 @@ The project's purpose was to design a desktop interface with interactive windows
 - **WinBox Terminal Creation**: Utilizes the `WinBox` constructor to create a new window that acts as a terminal. This window is customizable and includes an input field for command entry.
 - **Command Input Handling**: Integrates an input field within the terminal for user commands, which can be extended to support various commands and interactions within the application.
 - **Styling and Positioning**: Applies specific CSS styles to the WinBox terminal for consistency with the application's aesthetic and user interface design.
+
+## Future hopes
+- Adding events that are triggered based on where the mouse moves or how long it stays still.
+- In general, just adding more interactions.
+- Choices of where the user explores that lead to certain discoveries and a story route.
 
 ## Usage
 
