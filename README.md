@@ -1,6 +1,6 @@
 # A love message
 
-[Try it out]([URL](https://cosmicnyx.github.io/web/index.html))
+[Try it out](https://cosmicnyx.github.io/web/index.html)
 
 ## Table of Contents
 
