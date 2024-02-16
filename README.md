@@ -21,7 +21,7 @@ This concept explores visual and interactive storytelling through the aesthetics
 ## Ideas
 I chose to work on a web-based project because I like building them. In my hurry to think of something, I began coding some features as I considered the narrative. The designathon offered me the opportunity to unwind, code something random, and create the basis for next projects.
 
-The project's purpose was to design a desktop interface with interactive windows. Cleaning up the code took some time, and I still have files from previous attempts. My primary goal was to make the code as efficient as feasible. I've always liked this look and have worked on similar projects before.
+The project's purpose was to design a desktop interface with interactive windows. Cleaning up the code took some time, and I still have files from previous attempts. My primary goal was to make the code as efficient and feasible as possible. I've always liked this look and have worked on similar projects before.
 
 ## Relation to DF
 As a student in the Digital Futures program at OCAD University, this project serves as a practical exploration of the concepts and techniques I've been learning. Here’s a simpler take on how it relates:
