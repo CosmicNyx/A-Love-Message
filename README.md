@@ -19,7 +19,7 @@
 This concept explores visual and interactive storytelling through the aesthetics of terminals and files. We use pop-up windows as journal entries to showcase a story about the conflicts and inner turmoil about romantic relationships, and their views on being aromantic and ace. The interactive part comes from unexpected moments through reading the diary and the character's feelings. Unexpected popups, Java animations, exploring through files and entries.
 
 ## Ideas
-I chose to work on a web-based project because I like building them. In my haste to think of something, I began coding some features as I considered the narrative. The designathon offered me the opportunity to unwind, code something random, and create the basis for next projects.
+I chose to work on a web-based project because I like building them. In my hurry to think of something, I began coding some features as I considered the narrative. The designathon offered me the opportunity to unwind, code something random, and create the basis for next projects.
 
 The project's purpose was to design a desktop interface with interactive windows. Cleaning up the code took some time, and I still have files from previous attempts. My primary goal was to make the code as efficient as feasible. I've always liked this look and have worked on similar projects before.
 
